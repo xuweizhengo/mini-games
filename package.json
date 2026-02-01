@@ -1,0 +1,24 @@
+{
+  "name": "games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "screenshot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuweizhengo/mini-games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuweizhengo/mini-games/issues"
+  },
+  "homepage": "https://github.com/xuweizhengo/mini-games#readme",
+  "dependencies": {
+    "puppeteer": "^24.36.1"
+  }
+}
